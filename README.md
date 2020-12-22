@@ -12,4 +12,4 @@ The app uses R shiny to build and deploy itself onto rsconnect.io. It draws its 
 
 ### Check it out
 
-[Click here to check out the app](codylittleshinyapps.shinyapps.io/Book_Dash/)
+[Click Me!](https://codylittleshinyapps.shinyapps.io/Book_Dash/)
